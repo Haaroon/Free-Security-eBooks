@@ -1,3 +1,16 @@
+# Beginners books - From: [Best hacking ebooks](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+
+- [Rtfm: Red Team Field Manual](https://www.amazon.co.uk/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_1?ie=UTF8&qid=1495022671&sr=8-1&keywords=Rtfm%3A+Red+Team+Field+Manual)
+- [Black Hat Python: Python Programming for Hackers and Pentesters]()
+- [ Hacking: The Art of Exploitation, 2nd Edition]()
+- [Metasploit: The Penetration Tester’s Guide]()
+- [The Basics of Hacking and Penetration Testing]()
+- [The Hacker Playbook 2: Practical Guide to Penetration Testing]()
+
+
+
+
+
 # Free Security eBooks
 [![Build Status](https://travis-ci.org/Hack-with-Github/Free-Security-eBooks.svg?branch=master)](https://api.travis-ci.org/Hack-with-Github/Free-Security-eBooks.svg?branch=master)
 
